@@ -89,7 +89,7 @@ export async function signIn(params: SignInParams) {
   }
 }
 
-// Sign out user by clearing the session cookie
+// Sign out user by clearing the ses sion cookie
 export async function signOut() {
   const cookieStore = await cookies();
 

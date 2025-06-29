@@ -1,6 +1,6 @@
 import React from 'react'
-import { FormItem, FormLabel, FormControl, FormDescription, FormMessage } from '@/components/ui/form'
-import { Input } from '@/components/ui/input'
+import { FormItem, FormLabel, FormControl, FormDescription, FormMessage } from '@/componants/ui/form'
+import { Input } from '@/componants/ui/input'
 import { Control, Controller, FieldValues, Path } from 'react-hook-form'
 
 interface FormFieldProps<T extends FieldValues> {

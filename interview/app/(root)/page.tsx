@@ -1,5 +1,5 @@
 import InterviewCard from '@/componants/InterviewCard';
-import { Button } from '@/components/ui/button';
+import { Button } from '@/componants/ui/button';
 import { dummyInterviews } from '@/constants';
 import Image from 'next/image';
 import Link from 'next/link';
